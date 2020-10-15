@@ -1,0 +1,40 @@
+----------------------------------------------------------------------
+Timestamp - 10/14/2020 8:49:56 PM -04:00 | Level - Error |
+----------------------------------------------------------------------
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-32AI3S4"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19041.0"
+Version : "3.1.5"
+UserName : "christian_hew"
+ProcessId : 23612
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/14/2020 8:53:10 PM -04:00 | Level - Error |
+----------------------------------------------------------------------
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-32AI3S4"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19041.0"
+Version : "3.1.5"
+UserName : "christian_hew"
+ProcessId : 15768
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
+----------------------------------------------------------------------
+Timestamp - 10/14/2020 8:54:38 PM -04:00 | Level - Error |
+----------------------------------------------------------------------
+Error : "Attempted to divide by zero."
+StackTrace : "   at CMS_Application.Program.Main(String[] args) in C:\Users\christian_hew\source\repos\CMS_Application\Program.cs:line 27"
+InnerException : null
+Source : "CMS_Application"
+Application : "CMS_CORE_NG"
+MachineName : "DESKTOP-32AI3S4"
+CurrentManagedThreadId : 1
+OSVersion : "Microsoft Windows NT 10.0.19041.0"
+Version : "3.1.5"
+UserName : "christian_hew"
+ProcessId : 22400
+ProcessName : "iisexpress"
+---------------------------------------------------------------------------
